@@ -1,0 +1,45 @@
+body {
+
+
+ color: white;
+
+ background: #12c2e9;
+
+ background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);
+
+ background:linear-gradient(to right, #f64f59, #c471ed, #12c2e9);
+
+}
+
+#heading {
+
+ font-family: 'Baloo Tamma 2', cursive;
+
+}
+
+#emojis {
+
+ letter-spacing: 10px;
+
+ font-size: 30px;
+
+}
+
+#trained_emojis_h2 {
+
+ letter-spacing: 10px;
+
+ border: 2px solid black;
+
+ display: inline;
+
+ padding: 10px;
+
+}
+
+#camera , #result
+{
+  border: 2px solid black;
+  width: 350px;
+  height: 300px; 
+}
